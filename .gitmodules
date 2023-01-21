@@ -1,0 +1,3 @@
+[submodule "Hofstede-country-model-data"]
+	path = Hofstede-country-model-data
+	url = https://github.com/sguzman/Hofstede-country-model-data
