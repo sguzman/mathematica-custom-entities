@@ -1,3 +1,6 @@
 [submodule "Hofstede-country-model-data"]
 	path = Hofstede-country-model-data
 	url = https://github.com/sguzman/Hofstede-country-model-data
+[submodule "harvard-atlas-data"]
+	path = harvard-atlas-data
+	url = https://github.com/sguzman/harvard-atlas-data
