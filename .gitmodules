@@ -4,3 +4,6 @@
 [submodule "harvard-atlas-data"]
 	path = harvard-atlas-data
 	url = https://github.com/sguzman/harvard-atlas-data
+[submodule "wolfram-data-repo"]
+	path = wolfram-data-repo
+	url = https://github.com/sguzman/wolfram-data-repo
